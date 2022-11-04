@@ -1,1 +1,1 @@
-# django-demo
+# JVM demo written by TypeScript
