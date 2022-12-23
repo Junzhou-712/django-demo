@@ -1,1 +1,1 @@
-# JVM demo written by TypeScript
+# JVM demo written by Rust
